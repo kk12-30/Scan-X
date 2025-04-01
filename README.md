@@ -5,6 +5,7 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 
 
 使用场景如下：
+
 1、浏览器直接开启7777端口代理进行检测（不推荐）
 ![image](https://github.com/kk12-30/Scan-X/blob/main/4.png)
 2、使用burpsuit下游代理或passive-scan-client插件进行检测（不会影响正常请求，推荐）
