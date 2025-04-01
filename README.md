@@ -12,7 +12,10 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 ![image](https://github.com/kk12-30/Scan-X/blob/main/5.png)
 
 
+使用说明
+
 一：证书安装
+
 根据步骤双击安装即可、浏览器也需要导入该证书
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1.png)
 
