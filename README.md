@@ -24,5 +24,8 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 
 二：配置文件说明
 ![image](https://github.com/kk12-30/Scan-X/blob/main/3.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/6.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/7.png)
 
+三：
 
