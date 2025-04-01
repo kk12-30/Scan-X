@@ -4,7 +4,7 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 一：证书安装
 根据步骤双击安装即可、浏览器也需要导入该证书
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1.png)
-导入到受信任的根证书颁发机构即可
+\n导入到受信任的根证书颁发机构即可
 ![image](https://github.com/kk12-30/Scan-X/blob/main/2.png)
 
 
