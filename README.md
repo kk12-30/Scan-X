@@ -27,5 +27,12 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 ![image](https://github.com/kk12-30/Scan-X/blob/main/6.png)
 ![image](https://github.com/kk12-30/Scan-X/blob/main/7.png)
 
-三：
+三：漏洞检测
+
+![image](https://github.com/kk12-30/Scan-X/blob/main/12.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/10.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/11.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/8.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/9.png)
+
 
