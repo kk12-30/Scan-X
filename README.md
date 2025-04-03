@@ -3,6 +3,8 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 
+更新记录：
+v1.1：支持请求二次转发，可联动xscan等工具
 
 ## 🚀 使用场景如下
 
