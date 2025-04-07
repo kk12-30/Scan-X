@@ -6,6 +6,7 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 更新记录：
 
 v1.1：支持请求二次转发，可联动xscan等工具
+v1.2：新增fuzz测试
 
 ## 🚀 使用场景如下
 
