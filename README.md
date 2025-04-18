@@ -43,4 +43,11 @@ v1.3：新增AI扫描测试
 ![image](https://github.com/kk12-30/Scan-X/blob/main/8.png)
 ![image](https://github.com/kk12-30/Scan-X/blob/main/9.png)
 
+四：AI扫描自动化测试
+可以修改配置文件中的AI模型，通过AI自动构造请求包，受限于API的速度一次只构造5个请求包
+使用burpsuit下游代理或passive-scan-client插件进行检测（不会影响正常请求）
+![image](https://github.com/kk12-30/Scan-X/blob/main/ai1.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/ai2.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/ai3.png)
+
 
