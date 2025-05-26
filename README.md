@@ -9,6 +9,8 @@ https://mp.weixin.qq.com/s/L7WRhOp7hlgA6a3pPZLGhA
 
 更新记录：
 
+v2.3：优化web界面、支持并发多任务进行AI漏洞扫描  scan-x.exe -uf url.txt
+
 v2.2：新增web界面、新增数据库报错检测
 
 v2.0：新增指纹识别、基于指纹的AI漏洞扫描
