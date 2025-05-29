@@ -8,6 +8,8 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 更新记录：
 
+v2.4：新增多个针对特定漏洞的AI-Agent扫描模块
+
 v2.3：优化web界面、支持并发多任务进行AI漏洞扫描  scan-x.exe -uf url.txt
 
 v2.2：新增web界面、新增数据库报错检测
