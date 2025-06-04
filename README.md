@@ -1,10 +1,14 @@
 # Scan-X
 Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别常见Web漏洞，包括SQL注入、越权访问、未授权访问等。通过代理模式自动分析HTTP流量，实现被动扫描，适合大规模资产安全评估与渗透测试场景。
 ![image](https://github.com/kk12-30/Scan-X/blob/main/web.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/12.png)
+![image](https://github.com/kk12-30/Scan-X/blob/main/13.png)
 
 
 
 使用：https://mp.weixin.qq.com/s/WJp3yk46dSQ_aMMMj2AP0A
+
+https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
 更新记录：
 
