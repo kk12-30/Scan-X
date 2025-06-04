@@ -8,7 +8,7 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 更新记录：
 
-v3.0（beta）：新增Web操作页面、新增burp专属插件
+v3.0：新增Web操作页面、新增burp专属插件
 
 v2.4：新增多个针对特定漏洞的AI-Agent扫描模块(SQL、xss、fuzz、越权、自定义模块)、新增响应体长度限制防止消耗过多token
 
