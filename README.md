@@ -13,6 +13,8 @@ https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
 更新记录：
 
+V3.1：修复路径空格请求错误问题
+
 v3.0：新增Web操作页面、新增burp专属插件
 
 v2.4：新增多个针对特定漏洞的AI-Agent扫描模块(SQL、xss、fuzz、越权、自定义模块)、新增响应体长度限制防止消耗过多token
