@@ -19,7 +19,7 @@ V3.1：修复路径空格请求错误问题
 
 v3.0：新增Web操作页面、新增burp专属插件
 
-v2.4：新增多个针对特定漏洞的AI-Agent扫描模块(SQL、xss、fuzz、越权、自定义模块)、新增响应体长度限制防止消耗过多token
+v2.4：新增多个针对特定漏洞的AI-Agent扫描模块(SQL、xss、fuzz、越权、自定义模块等等)、新增响应体长度限制防止消耗过多token
 
 v2.3：优化web界面、支持并发多任务进行AI漏洞扫描  scan-x.exe -uf url.txt
 
