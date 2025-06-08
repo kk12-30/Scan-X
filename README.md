@@ -13,6 +13,8 @@ https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
 更新记录：
 
+V4.0（beta）：实现半自动化Web渗透测试
+
 V3.1：修复路径空格请求错误问题
 
 v3.0：新增Web操作页面、新增burp专属插件
