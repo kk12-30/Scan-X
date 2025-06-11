@@ -11,6 +11,8 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
+代理转发器：https://github.com/kk12-30/proxy_forwarder
+
 更新记录：
 
 V4.0（beta）：实现半自动化Web渗透测试
