@@ -17,6 +17,7 @@ https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
 
 
+
 代理转发器：https://github.com/kk12-30/proxy_forwarder
 
 -w可以指定域名或ip白名单
@@ -24,6 +25,7 @@ https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 作为独立代理进行二次转发到扫描器：proxy_forwarder.exe -l 127.0.0.1:8080 -u 127.0.0.1:7777 -w 192.168.1.1
 
 BurpSuite设置上游代理为127.0.0.1:8081进行二次转发到扫描器：proxy_forwarder.exe -l 127.0.0.1:8081 -u 127.0.0.1:7777
+
 
 
 更新记录：
