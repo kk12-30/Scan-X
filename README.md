@@ -7,7 +7,10 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 
 
-使用：https://mp.weixin.qq.com/s/WJp3yk46dSQ_aMMMj2AP0A
+使用：
+https://mp.weixin.qq.com/s/Bc8dtSmGV9IJ1fwnZ9hPIA
+
+https://mp.weixin.qq.com/s/WJp3yk46dSQ_aMMMj2AP0A
 
 https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
@@ -24,7 +27,7 @@ BurpSuite设置上游代理为127.0.0.1:8081进行二次转发到扫描器：pro
 
 更新记录：
 
-V4.0（beta）：实现半自动化Web渗透测试
+V4.0：添加智能体、优化burp插件
 
 V3.1：修复路径空格请求错误问题
 
