@@ -19,6 +19,27 @@ https://mp.weixin.qq.com/s/WJp3yk46dSQ_aMMMj2AP0A
 https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
 
 
+```
+接口API支持工具二开，modules类型有：xss_AIagent, sql_AIagent, rce_AIagent, cve_AIagent, upload_AIagent, fuzz_Aiagent, diy_AIagent, bypass403_AIagent, privilege_AIagent, waf_bypass_AIagent, bypass, horizontal_escalation, vertical_escalation, ai_scan, finger_scan, sensitive_info, unauthorized, fuzz, sql_baseinjection, sql_injection, model_select
+
+curl -X POST http://localhost:8080/api/scan \
+  -H "Content-Type: application/json" \
+  -d '{
+    "url": "http://example.com/login.php",
+    "method": "POST",
+    "body": "username=admin&password=123456",
+    "headers": {
+      "Content-Type": "application/x-www-form-urlencoded",
+      "User-Agent": "Custom-Scanner/1.0"
+    },
+    "modules": {
+      "sql_AIagent": true,
+      "xss_AIagent": true,
+      "sensitive_info": true,
+      "unauthorized": true
+    }
+  }'
+```
 
 
 代理转发器：https://github.com/kk12-30/proxy_forwarder
