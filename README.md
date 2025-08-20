@@ -1,4 +1,4 @@
-# Scan-X 最新版本5.0
+# Scan-X 最新版本5.2
 
 最新介绍文章：https://mp.weixin.qq.com/s/BWWaMWs9LwhA8SEd2Iv_cQ
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
@@ -58,7 +58,7 @@ BurpSuite设置上游代理为127.0.0.1:8081进行二次转发到扫描器：pro
 
 V6.0（beta）：自动化任务编排、浏览器MCP控制
 
-V5.0：Kali-MCP自动化渗透
+V5.2：Kali-MCP自动化渗透
 
 V4.5:新增rad爬虫、修复认证问题
 
