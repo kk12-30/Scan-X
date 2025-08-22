@@ -1,6 +1,7 @@
 # Scan-X 最新版本5.2
 
-最新介绍文章：https://mp.weixin.qq.com/s/BWWaMWs9LwhA8SEd2Iv_cQ
+最新介绍文章：https://mp.weixin.qq.com/s/4JJtg2hQ72jJ2gRglVoHOA
+![演示](/assets/demo.gif)
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
 
 
