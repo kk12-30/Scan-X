@@ -2,7 +2,7 @@
 
 最新介绍文章：https://mp.weixin.qq.com/s/4JJtg2hQ72jJ2gRglVoHOA
 
-下载演示视频： [1.mp4](https://github.com/kk12-30/Scan-X/raw/main/1.mp4)
+下载演示视频： https://www.bilibili.com/video/BV18meizdEZ3
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
 
 
