@@ -4,6 +4,8 @@
 
 演示视频： https://www.bilibili.com/video/BV18meizdEZ3
 
+推荐模型：https://github.com/Clouditera/SecGPT
+
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
 
 
