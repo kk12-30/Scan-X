@@ -1,6 +1,6 @@
 # Scan-X 最新版本V5.6
 
-最新介绍文章：https://mp.weixin.qq.com/s/4JJtg2hQ72jJ2gRglVoHOA
+最新介绍文章：https://mp.weixin.qq.com/s/zqTliLgVBimelAUQ26RgIw
 
 演示视频： https://www.bilibili.com/video/BV18meizdEZ3
 
@@ -19,12 +19,6 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 
 
 使用：
-https://mp.weixin.qq.com/s/Bc8dtSmGV9IJ1fwnZ9hPIA
-
-https://mp.weixin.qq.com/s/WJp3yk46dSQ_aMMMj2AP0A
-
-https://mp.weixin.qq.com/s/_aRlugvf4Pj69MJu18b6xg
-
 
 ```
 接口API支持工具二开，modules类型有：xss_AIagent, sql_AIagent, rce_AIagent, cve_AIagent, upload_AIagent, fuzz_Aiagent, diy_AIagent, bypass403_AIagent, privilege_AIagent, waf_bypass_AIagent, bypass, horizontal_escalation, vertical_escalation, ai_scan, finger_scan, sensitive_info, unauthorized, fuzz, sql_baseinjection, sql_injection, model_select
@@ -49,13 +43,6 @@ curl -X POST http://localhost:8080/api/scan \
 ```
 
 
-代理转发器：https://github.com/kk12-30/proxy_forwarder
-
--w可以指定域名或ip白名单
-
-作为独立代理进行二次转发到扫描器：proxy_forwarder.exe -l 127.0.0.1:8080 -u 127.0.0.1:7777 -w 192.168.1.1
-
-BurpSuite设置上游代理为127.0.0.1:8081进行二次转发到扫描器：proxy_forwarder.exe -l 127.0.0.1:8081 -u 127.0.0.1:7777
 
 
 ```
