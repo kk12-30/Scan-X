@@ -48,7 +48,7 @@ curl -X POST http://localhost:8080/api/scan \
 ```
 更新记录：
 
-V6.0（beta）：自动化任务编排、MCP管理、Web界面集成、远程下发指令
+V6.0
 
 V5.6：适配本地ollma模型（需要在配置文件中增加延时时间，具体配置参考使用手册最后部分）
 
