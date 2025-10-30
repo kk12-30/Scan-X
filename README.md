@@ -13,8 +13,7 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 ![image](https://github.com/kk12-30/Scan-X/blob/main/22.png)
 ![image](https://github.com/kk12-30/Scan-X/blob/main/web.png)
 
-![image](https://github.com/kk12-30/Scan-X/blob/main/12.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/23.png)
+
 
 
 ```
