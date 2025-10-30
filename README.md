@@ -17,34 +17,6 @@ Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别�
 ![image](https://github.com/kk12-30/Scan-X/blob/main/23.png)
 
 
-
-使用：
-
-```
-接口API支持工具二开，modules类型有：xss_AIagent, sql_AIagent, rce_AIagent, cve_AIagent, upload_AIagent, fuzz_Aiagent, diy_AIagent, bypass403_AIagent, privilege_AIagent, waf_bypass_AIagent, bypass, horizontal_escalation, vertical_escalation, ai_scan, finger_scan, sensitive_info, unauthorized, fuzz, sql_baseinjection, sql_injection, model_select
-
-curl -X POST http://localhost:8080/api/scan \
-  -H "Content-Type: application/json" \
-  -d '{
-    "url": "http://example.com/login.php",
-    "method": "POST",
-    "body": "username=admin&password=123456",
-    "headers": {
-      "Content-Type": "application/x-www-form-urlencoded",
-      "User-Agent": "Custom-Scanner/1.0"
-    },
-    "modules": {
-      "sql_AIagent": true,
-      "xss_AIagent": true,
-      "sensitive_info": true,
-      "unauthorized": true
-    }
-  }'
-```
-
-
-
-
 ```
 更新记录：
 
@@ -57,11 +29,6 @@ V5.5：优化提示词、web界面（新增任务进度、AI对话助手、数�
 V5.2：Kali-MCP自动化渗透
 ```
 
-## 🚀 使用场景如下
 
-1、浏览器直接开启7777端口代理进行检测（不推荐）
-![image](https://github.com/kk12-30/Scan-X/blob/main/4.png)
-2、使用burpsuit下游代理或passive-scan-client插件进行检测（不会影响正常请求，推荐）
-![image](https://github.com/kk12-30/Scan-X/blob/main/5.png)
 
 
