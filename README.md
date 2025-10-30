@@ -48,7 +48,7 @@ curl -X POST http://localhost:8080/api/scan \
 ```
 更新记录：
 
-V6.0
+V6.0：流量审计、JSSS接口自动化测试
 
 V5.6：适配本地ollma模型（需要在配置文件中增加延时时间，具体配置参考使用手册最后部分）
 
@@ -63,36 +63,5 @@ V5.2：Kali-MCP自动化渗透
 ![image](https://github.com/kk12-30/Scan-X/blob/main/4.png)
 2、使用burpsuit下游代理或passive-scan-client插件进行检测（不会影响正常请求，推荐）
 ![image](https://github.com/kk12-30/Scan-X/blob/main/5.png)
-
-
-## 🚀 使用说明
-
-一：证书安装
-
-根据步骤双击安装即可、浏览器也需要导入该证书
-![image](https://github.com/kk12-30/Scan-X/blob/main/1.png)
-
-导入到受信任的根证书颁发机构即可
-![image](https://github.com/kk12-30/Scan-X/blob/main/2.png)
-
-二：配置文件说明
-![image](https://github.com/kk12-30/Scan-X/blob/main/3.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/6.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/7.png)
-
-三：漏洞检测
-
-![image](https://github.com/kk12-30/Scan-X/blob/main/12.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/10.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/11.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/8.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/9.png)
-
-四：AI扫描自动化测试
-可以修改配置文件中的AI模型，通过AI自动构造请求包，受限于API的速度一次只构造5个请求包
-使用burpsuit下游代理或passive-scan-client插件进行检测（不会影响正常请求）
-![image](https://github.com/kk12-30/Scan-X/blob/main/ai1.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/ai2.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/ai3.png)
 
 
