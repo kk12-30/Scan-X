@@ -1,4 +1,4 @@
-# Scan-X 最新版本V5.6
+# Scan-X 最新版本V6.0
 
 最新介绍文章：https://mp.weixin.qq.com/s/zqTliLgVBimelAUQ26RgIw
 
