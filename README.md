@@ -2,12 +2,8 @@
 
 最新介绍文章：https://mp.weixin.qq.com/s/zqTliLgVBimelAUQ26RgIw
 
-推荐模型：https://github.com/Clouditera/SecGPT
 
-![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
-
-
-Scan-X是一款基于mitmproxy高效的被动扫描器，专注于快速识别常见Web漏洞，包括SQL注入、越权访问、未授权访问等。通过代理模式自动分析HTTP流量，实现被动扫描，适合大规模资产安全评估与渗透测试场景。
+Scan-X是一款AI代理平台。
 ![image](https://github.com/kk12-30/Scan-X/blob/main/22.png)
 
 
@@ -129,4 +125,5 @@ sequenceDiagram
 
 
 
+![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
 
