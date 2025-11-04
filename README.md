@@ -1,6 +1,6 @@
-# Scan-X 最新版本V6.0
+# Scan-X 最新版本V6.2
 
-最新介绍文章：https://mp.weixin.qq.com/s/zqTliLgVBimelAUQ26RgIw
+最新介绍文章：https://mp.weixin.qq.com/s/RlquFjl4me9sl0eVCOjaqw
 
 
 Scan-X是一款赋能渗透测试的AI代理平台。
