@@ -1,16 +1,17 @@
 # Scan-X 最新版本V6.2
 
-最新介绍文章：https://mp.weixin.qq.com/s/RlquFjl4me9sl0eVCOjaqw
+最新介绍文章：https://mp.weixin.qq.com/s/C_D93tLAMvUd89enA6_3Pg
 
 
-Scan-X是一款赋能渗透测试的AI代理平台。
+Scan-X是一款AI赋能渗透测试的框架平台。
 ![image](https://github.com/kk12-30/Scan-X/blob/main/22.png)
-
 
 
 
 ```
 更新记录：
+
+V7.0（beta）：工具智能调用、工作流设置、端口扫描。。
 
 V6.0：流量审计、Burpsuit插件、JSSS接口自动化测试、漏洞测试
 
