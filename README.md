@@ -1,7 +1,6 @@
 # Scan-X 最新版本V6.2
 
-最新介绍文章：https://mp.weixin.qq.com/s/C_D93tLAMvUd89enA6_3Pg
-
+QQ:2649566514
 
 Scan-X是一款AI赋能渗透测试的框架平台。
 ![image](https://github.com/kk12-30/Scan-X/blob/main/22.png)
