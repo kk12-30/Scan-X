@@ -49,11 +49,6 @@ V5.2：Kali-MCP自动化渗透
 
 
 ![image](https://github.com/kk12-30/Scan-X/blob/main/4eb619d59dbb642e700047b19378fd45.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/701cda67-3937-4177-b5f7-04bddcb608a5.png)
 ![image](https://github.com/kk12-30/Scan-X/blob/main/819b63b5-bee6-4cea-857f-2f747b076f88.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/f9736aed-0cdf-44fd-b5a3-1fee242a7e1a.png)
-![image](https://github.com/kk12-30/Scan-X/blob/main/微信图片_20251103105821_215_134.png)
-
-
 ![image](https://github.com/kk12-30/Scan-X/blob/main/1755487681409.jpg)
 
