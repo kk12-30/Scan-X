@@ -3,14 +3,12 @@
 QQ:2649566514
 
 Scan-X是一款AI赋能渗透测试的框架平台。
-![image](https://github.com/kk12-30/Scan-X/blob/main/22.png)
-
 
 
 ```
 更新记录：
 
-V7.0（beta）：工具智能调用、工作流设置、端口扫描。。
+V7.0（beta）：工具智能调用、工作流设置、日志分析。。
 
 V6.0：流量审计、Burpsuit插件、JSSS接口自动化测试、漏洞测试
 
